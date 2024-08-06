@@ -1,3 +1,10 @@
-body{
-    background-color: ;
+
+#tittle{
+    text-align: center;
+    color: purple;
+}
+
+.rodape{
+    text-align: center;
+    color:blue;
 }
